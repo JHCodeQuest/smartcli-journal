@@ -1,4 +1,3 @@
-Here’s a clean, single-page README.md file that you can easily copy:
 
 # CmdJournal
 
